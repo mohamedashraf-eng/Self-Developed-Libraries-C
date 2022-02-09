@@ -1,7 +1,7 @@
 /*
     Author: Mohamed Ashraf (Wx)
     Date: 2/3/2022
-    Type: Nerual Network Training in C.
+    Type: 2D-Dynamic Memory Allocator.
 */
 
 // HEADER GUARDS: __Wx_C_SUPP_H__

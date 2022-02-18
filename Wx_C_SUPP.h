@@ -1,5 +1,5 @@
 /*
-    Author: Mohamed Ashraf (Wx)
+    Author: Mohamed Ashraf (Wx) and Derwy
     Date: 2/3/2022
     Type: 2D-Dynamic Memory Allocator.
 */
@@ -243,3 +243,5 @@ void **wxalloc(const uint8_t _SIZE, const uint16_t _SIZE_A, const uint16_t _SIZE
 }// end wxalloc.
 
 #endif
+
+// I don't like this code *thumbs down*
